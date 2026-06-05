@@ -1,10 +1,5 @@
-# Fitness-Five
-THE FITNESS FIVE is a modern gym website built with React and Tailwind CSS, featuring membership plans, trainer profiles, galleries, Google Sheets CMS, WhatsApp integration, and lead generation forms.
-
-
 # 🏋️ THE FITNESS FIVE – Gym Website
-
-A modern, responsive gym website built for **THE FITNESS FIVE, Agra** using **React, Vite, Tailwind CSS, Google Sheets CMS, and Google Forms Integration**.
+THE FITNESS FIVE is a modern gym website built with React and Tailwind CSS, featuring membership plans, trainer profiles, galleries, Google Sheets CMS, WhatsApp integration, and lead generation forms.
 
 ## 🚀 Features
 
